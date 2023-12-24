@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IS220_LandingPage_FinalProject/static/css/main.f59fc0ad.css",
-    "main.js": "/IS220_LandingPage_FinalProject/static/js/main.b8f1b4e3.js",
+    "main.js": "/IS220_LandingPage_FinalProject/static/js/main.4de82448.js",
     "static/media/landing.png": "/IS220_LandingPage_FinalProject/static/media/landing.bbce1f48597da7af0e22.png",
     "static/media/about.png": "/IS220_LandingPage_FinalProject/static/media/about.6068205a762dc7476248.png",
     "static/media/home_page.png": "/IS220_LandingPage_FinalProject/static/media/home_page.64a04e82a32e05cee018.png",
@@ -21,10 +21,10 @@
     "static/media/logo_large.png": "/IS220_LandingPage_FinalProject/static/media/logo_large.469fa3a84da4c41a5d2a.png",
     "index.html": "/IS220_LandingPage_FinalProject/index.html",
     "main.f59fc0ad.css.map": "/IS220_LandingPage_FinalProject/static/css/main.f59fc0ad.css.map",
-    "main.b8f1b4e3.js.map": "/IS220_LandingPage_FinalProject/static/js/main.b8f1b4e3.js.map"
+    "main.4de82448.js.map": "/IS220_LandingPage_FinalProject/static/js/main.4de82448.js.map"
   },
   "entrypoints": [
     "static/css/main.f59fc0ad.css",
-    "static/js/main.b8f1b4e3.js"
+    "static/js/main.4de82448.js"
   ]
 }

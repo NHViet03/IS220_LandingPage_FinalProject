@@ -1,0 +1,94 @@
+.about {
+}
+
+.about_banner {
+  background-image: url(../images/about.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about_banner h2 {
+  font-weight: bold;
+  font-size: 72px;
+  text-transform: uppercase;
+  color: #fff;
+  max-width: 800px;
+}
+
+.about_story {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 64px 0;
+  text-align: center;
+}
+
+.about_story h5 {
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+.about_story p {
+  font-weight: 300;
+}
+
+.about_story q {
+  font-style: italic;
+}
+
+.about_members {
+  max-width: 1200px;
+  margin: 0 auto 64px;
+}
+
+.about_member {
+  text-align: center;
+}
+.about_member > div {
+  margin-bottom: 24px;
+}
+.about_member img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.about_member h6 {
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 16px;
+}
+
+.about_members h5 {
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .about_story {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .about_banner {
+    height: 400px;
+  }
+  .about_banner h2 {
+    text-align: center;
+    font-size: 48px;
+  }
+
+  .about_member img {
+    padding: 0 8px;
+    height: 350px;
+  }
+}

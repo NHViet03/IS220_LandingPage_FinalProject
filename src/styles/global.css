@@ -1,0 +1,45 @@
+:root {
+  --primary-color: #e30019;
+  --primary-bg-color: #be1529;
+  --primary-bg-color-20: #ffd9d9;
+  --text-secondary-color: #6d6e72;
+  --border-color: #cfcfcf;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.app-container {
+  flex: 1;
+}
+
+.accordion-button:focus {
+  box-shadow: unset !important;
+}
+
+/* --------- HEADER -----------*/
+@import url("./header.css");
+
+/* --------- FOOTER -----------*/
+@import url("./footer.css");
+
+/* --------- HOME -----------*/
+@import url("./home.css");
+
+/* --------- ABOUT -----------*/
+@import url("./about.css");
+
+/* --------- ASSIGN -----------*/
+@import url("./assign.css");
+
+/* --------- PROGRESS -----------*/
+@import url("./progress.css");

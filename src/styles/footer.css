@@ -1,0 +1,22 @@
+.footer {
+  color: #2f3132;
+  background-color: #f4f4f4;
+  padding-left: 64px;
+  padding-right: 64px;
+}
+
+.footer_icons i {
+  font-size: 28px;
+  margin-left: 16px;
+  cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+  .footer{
+    flex-direction: column;
+    text-align: center;
+    gap:8px;
+  }
+}

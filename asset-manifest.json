@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab4fcb39.css",
+    "main.js": "/static/js/main.f099328b.js",
+    "static/media/landing.png": "/static/media/landing.bbce1f48597da7af0e22.png",
+    "static/media/about.png": "/static/media/about.6068205a762dc7476248.png",
+    "static/media/home_page.png": "/static/media/home_page.64a04e82a32e05cee018.png",
+    "static/media/category.png": "/static/media/category.f214ab6289a98e585523.png",
+    "static/media/dashboard.png": "/static/media/dashboard.a448e4bb2eb77a4867f4.png",
+    "static/media/product.png": "/static/media/product.fccf061edf9d1443387f.png",
+    "static/media/products.png": "/static/media/products.a2da6d0212755233d2a4.png",
+    "static/media/order.png": "/static/media/order.92befd20ead4911cc1dc.png",
+    "static/media/customer.png": "/static/media/customer.cc0f12369103fbdd6182.png",
+    "static/media/cart.png": "/static/media/cart.313336f661a8d4616705.png",
+    "static/media/poseidon.jpg": "/static/media/poseidon.92b6078bb671b2977fa7.jpg",
+    "static/media/athena.jpg": "/static/media/athena.5c613994bfa7f1e5c0a4.jpg",
+    "static/media/apolo.jpg": "/static/media/apolo.9b33d2fceca62cf5e03a.jpg",
+    "static/media/account.png": "/static/media/account.859e44d0e94d0502f4db.png",
+    "static/media/zues.jpg": "/static/media/zues.64753ee06e528a159105.jpg",
+    "static/media/ares.jpg": "/static/media/ares.4b680714df633f35bb6c.jpg",
+    "static/media/logo_large.png": "/static/media/logo_large.469fa3a84da4c41a5d2a.png",
+    "index.html": "/index.html",
+    "main.ab4fcb39.css.map": "/static/css/main.ab4fcb39.css.map",
+    "main.f099328b.js.map": "/static/js/main.f099328b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4fcb39.css",
+    "static/js/main.f099328b.js"
+  ]
+}
